@@ -4,7 +4,4 @@
 - 💞️ I’m looking to collaborate on IOT projects, Game development or Projects related to automation.
 - 📫 How to reach me abhijitkadalli14[at]gmail[dot]com
 
-<!---
-CreationisT-T/CreationisT-T is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhijit-Kadalli)](https://github.com/anuraghazra/github-readme-stats)
