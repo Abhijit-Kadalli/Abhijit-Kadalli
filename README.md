@@ -6,5 +6,4 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats-ten-gilt.vercel.app/api?username=Abhijit-Kadalli)](https://github.com/anuraghazra/github-readme-stats&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)
-
 [![Top Langs](https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=Abhijit-Kadalli)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
